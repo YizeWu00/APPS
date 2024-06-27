@@ -1,4 +1,6 @@
-APPS 2.0
+APPS
+This is APPS, a code generation dataset for CodeLLM training and evaluation.
+
 1.Run apps_create_split.py to get a data split.
     python apps_create_split.py \
         -r /path/to/APPS
