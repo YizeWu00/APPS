@@ -38,10 +38,6 @@ APPS 2.0
     Results include: pass@k (k_list can be modified in file)
                      unittest pass rate and error rate.
 
-5.Run old2new.py to (test.json -> test.jsonl) and (all_codes.json -> all_codes.jsonl)
-    python old2new.py
-    Modify old and new file paths in files.
-
 NOTE:
     1. train data is different from test data. Be careful when splitting train data into test set.
 ENV:
